@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PricklyPeach
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning about containers and networking them on my cyber range!
+- 👀 I’m interested in cyber security and software development.
 - 📫 pricklypeachdev@gmail.com
 
 <!---
